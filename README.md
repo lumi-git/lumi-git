@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PyGine](https://github.com/lumi-git/PyGine)
 > PyGine is a game livrary i work on to learn new things about optimisation ! 
-
+> find more about pygine in the organisation, games and demos of the engine
 - 📫 How to reach me **ronan.etudes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
