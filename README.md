@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronantr" alt="ronantr" /></a> </p>
 
 - 🔭 I’m currently working on [PyGine](https://github.com/lumi-git/PyGine)
+> PyGine is a game livrary i work on to learn new things about optimisation ! 
 
 - 📫 How to reach me **ronan.etudes@gmail.com**
 
