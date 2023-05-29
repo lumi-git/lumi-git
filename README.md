@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on These projects : 
   - [PyGine](https://github.com/lumi-git/PyGine)
   - [P2PGames](https://github.com/ProgMobEsir/Project)
+  - [Throw Me A Beer] Private project, not yet released !
 > PyGine is a game livrary i work on to learn new things about optimisation ! 
 > find more about pygine in the organisation, games and demos of the engine
 - 📫 How to reach me **ronan.etudes@gmail.com**
