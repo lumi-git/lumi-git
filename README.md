@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronantr" alt="ronantr" /></a> </p>
 
 - 🔭 I’m currently working on These projects :
-  - [Gava] (https://github.com/lumi-git/Gava)
-  - [PyGine](https://github.com/lumi-git/PyGine)
+  - [Gava](https://github.com/lumi-git/Gava) A Java game engine in development
+  - [PyGine](https://github.com/lumi-git/PyGine) A Python Game engine in developement
   - [Throw Me A Beer] Private project, released in playstore.
 > PyGine is a game livrary i work on to learn new things about optimisation ! 
 > find more about pygine in the organisation, games and demos of the engine
