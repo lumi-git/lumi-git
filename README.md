@@ -10,7 +10,9 @@
   - [PyGine](https://github.com/lumi-git/PyGine) A Python Game engine in developement
   - [Throw Me A Beer] Private project, released in playstore.
 > PyGine is a game livrary i work on to learn new things about optimisation ! 
-> find more about pygine in the organisation, games and demos of the engine
+> find more about pygine and Gava at the respective links, games and demos of the engines
+
+- if you are interrested about my projects, see more in [my website](ronantremoureux.fr) :D
 - 📫 How to reach me **ronan.etudes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
