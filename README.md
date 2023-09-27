@@ -12,7 +12,7 @@
 > PyGine is a game livrary i work on to learn new things about optimisation ! 
 > find more about pygine and Gava at the respective links, games and demos of the engines
 
-- if you are interrested about my projects, see more in [my website](ronantremoureux.fr) :D
+- if you are interrested about my projects, see more in [my website](https://ronantremoureux.fr/) :D
 - 📫 How to reach me **ronan.etudes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
