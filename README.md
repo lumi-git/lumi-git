@@ -7,10 +7,8 @@
 
 - 🔭 I’m currently working on These projects :
   - [Gava](https://github.com/lumi-git/Gava) A Java game engine in development
-  - [PyGine](https://github.com/lumi-git/PyGine) A Python Game engine in developement
-  - [Throw Me A Beer] Private project, released in playstore.
-> PyGine is a game livrary i work on to learn new things about optimisation ! 
-> find more about pygine and Gava at the respective links, games and demos of the engines
+  - [GameScript](https://github.com/lumi-git/Gamescript) A JS game library to learn collision algotithms (board phase and narrow phase)
+  - [Throw Me A Beer](https://play.google.com/store/apps/details?id=com.CoffeAppStudio.ThrowMeABeer) Private game project, released in playstore :D .
 
 - if you are interrested about my projects, see more in [my website](https://ronantremoureux.fr/) :D
 - 📫 How to reach me **ronan.etudes@gmail.com**
